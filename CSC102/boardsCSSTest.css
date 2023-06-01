@@ -1,0 +1,18 @@
+h2{
+    color: aqua;
+    text-align: center;
+}
+h3{
+    color: aquamarine;
+    text-align: left;
+}
+h4{
+    color: antiquewhite;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+}
