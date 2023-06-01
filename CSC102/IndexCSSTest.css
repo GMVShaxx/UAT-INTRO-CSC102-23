@@ -4,14 +4,32 @@ h2
     text-align: center;
 
 }
+
 h3
 {
     color: darkgoldenrod;
     text-align: center;
-
+    margin-right: 200px;
 }
+
 body
 { 
     background-color: brown;
+    text-align: center
+}
+
+header{
     text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+nav { 
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
 }
